@@ -1,5 +1,5 @@
 ----
-# Media AI Processor
+# DraftPunk | AI and Human Multi-Media & Document Synthesizer
 
 * [Overview](vscode-webview://0horjmpab8eeho71vrnqlj3dv9ams310gu54u2l7d0g9d73etal8/index.html?id=66953701-54ea-4a75-a1bd-c93b9a2b6ab6&origin=71ae78b8-8330-4281-be2d-04ed1938f190&swVersion=4&extensionId=saoudrizwan.claude-dev&platform=electron&vscode-resource-base-authority=vscode-resource.vscode-cdn.net&parentOrigin=vscode-file%3A%2F%2Fvscode-app&purpose=webviewView#overview)
 * [Key Features](vscode-webview://0horjmpab8eeho71vrnqlj3dv9ams310gu54u2l7d0g9d73etal8/index.html?id=66953701-54ea-4a75-a1bd-c93b9a2b6ab6&origin=71ae78b8-8330-4281-be2d-04ed1938f190&swVersion=4&extensionId=saoudrizwan.claude-dev&platform=electron&vscode-resource-base-authority=vscode-resource.vscode-cdn.net&parentOrigin=vscode-file%3A%2F%2Fvscode-app&purpose=webviewView#key-features)
